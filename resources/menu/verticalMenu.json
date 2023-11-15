@@ -1,0 +1,17 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Escritorio",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "submenu": [
+        {
+          "url": "/",
+          "name": "Mis Películas",
+          "slug": "my-movies"
+        }
+      ]
+    }
+  ]
+}
